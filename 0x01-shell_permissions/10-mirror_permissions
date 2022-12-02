@@ -1,0 +1,2 @@
+#!/bin/bash
+chnmod --reference=olleh hello
